@@ -9,6 +9,9 @@
 *.userosscache
 *.sln.docstates
 
+# ignore appsettings configuration files
+**/App.config
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
